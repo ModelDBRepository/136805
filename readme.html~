@@ -1,0 +1,11 @@
+<html><pre>
+The NEURON model code for Aguiar et al. 2010 is made available through a link in the paper:
+
+<a href="http://www.fc.up.pt/pessoas/pauloaguiar/WDRmodel.zip">http://www.fc.up.pt/pessoas/pauloaguiar/WDRmodel.zip</a>
+
+After the mod files are compiled the file wdr-complete-model.hoc will generate a figure simular to Figure 2C:
+
+<img src="./screenshot.jpg" alt="screenshot" width="600">
+</pre></html>
+
+
